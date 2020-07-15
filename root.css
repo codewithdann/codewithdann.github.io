@@ -1,0 +1,8 @@
+html {
+    scroll-behavoir: smooth;
+} 
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
